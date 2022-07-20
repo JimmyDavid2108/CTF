@@ -1,6 +1,6 @@
 {
-  "name": "MozillaCTF",
-  "version": "1.0.1",
+  "name": "CTF",
+  "version": "1.00.23",
   "description": "An intentionally insecure JavaScript Web Application",
   "homepage": "https://github.com/mozilla/security",
   "author": "Firefox Operartions Security Team <foxsec@mozilla.com>",
