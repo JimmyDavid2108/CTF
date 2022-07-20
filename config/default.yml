@@ -2,7 +2,7 @@ server:
   port: 3000
 application:
   domain: "mozilla-ctf.op"
-  name: "CTF-2022"
+  name: "Mozilla Austin CTF"
   logo: "MozillaCTF.png"
   favicon: "favicon_v2.ico"
   numberOfRandomFakeUsers: 0
