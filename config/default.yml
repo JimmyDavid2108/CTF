@@ -2,7 +2,7 @@ server:
   port: 3000
 application:
   domain: "mozilla-ctf.op"
-  name: "TESTE-CTF-2022 v1.00"
+  name: "TESTE-CTF-2022"
   logo: "ICONCTF.png"
   favicon: "favicon_v2.ico"
   numberOfRandomFakeUsers: 0
