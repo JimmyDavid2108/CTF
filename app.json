@@ -1,0 +1,19 @@
+{
+  "name": "Mozilla CTF",
+  "description": "An intentionally insecure JavaScript Web Application",
+  "repository": "https://github.com/mozilla/ctf-austin",
+  "logo": "https://github.com/mozilla/ctf-austin/raw/master/app/public/images/MozillaCTF.png",
+  "keywords": [
+    "web security",
+    "web application security",
+    "webappsec",
+    "owasp",
+    "pentest",
+    "pentesting",
+    "security",
+    "vulnerable",
+    "vulnerability",
+    "broken",
+    "bodgeit"
+  ]
+}

@@ -1,0 +1,13 @@
+# Mozilla Austin CTF
+FROM            node:%%NODE_VERSION%%-alpine
+MAINTAINER      Firefox Operartions Security Team <foxsec@mozilla.com>
+LABEL version = "%%APP_VERSION%%"
+
+RUN apk update && apk add git
+
+COPY . /mozilla-ctf
+WORKDIR /mozilla-ctf
+RUN npm install --production --unsafe-perm
+
+EXPOSE  3000
+CMD ["npm", "start"]
